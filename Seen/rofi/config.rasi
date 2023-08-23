@@ -1,0 +1,10 @@
+configuration {
+  -show
+  sidebar-mode:  true;
+  hide-scrollbar: true;
+  modi: "combi,drun,window,ssh,run,keys,filebrowser,windowcd";
+  combi-modi: "window,drun";
+  monitor: "";
+  terminal: "kitty";  
+}
+
